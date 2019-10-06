@@ -1,4 +1,4 @@
-# ProjetoBiblioteca
+# Projeto Biblioteca
 
 Projeto da disciplina Laboratório de Linguagem de Programação 1 ministrada pelo professor Danilo Abreu, Linguagem utilizada C.
 
