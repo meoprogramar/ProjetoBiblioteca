@@ -6,7 +6,7 @@ Projeto da disciplina laboratório de linguagem de programaço 1 ministrada pelo
 
 - [Apresentação do Programa](https://www.youtube.com/watch?v=rPEmC3mE0_c)
 
-> Feito em 17/12/2017.
+Feito em 17/12/2017.
 
 ![projetobiblioteca](https://user-images.githubusercontent.com/34866806/49675003-f9380980-fa5a-11e8-8f7a-ba9cab8d2cdc.png)
 
